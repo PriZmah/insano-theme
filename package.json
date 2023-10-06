@@ -4,6 +4,7 @@
   "description": "Un tema creado a mi gusto. :)",
   "version": "1.0.0",
   "publisher": "PriZmqh",
+  "repository": {"url": "https://github.com/PriZmah/insano-theme"},
   "keywords": [
     "theme",
     "tema",
