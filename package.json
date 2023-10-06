@@ -3,6 +3,16 @@
   "displayName": "Insano Theme",
   "description": "Un tema creado a mi gusto. :)",
   "version": "0.0.1",
+  "publisher": "PriZmqh",
+  "keywords": [
+    "theme",
+    "tema",
+    "dark",
+    "oscuro",
+    "insano",
+    "wazaaa"
+  ],
+  "icon": "./public/insano-theme-icon.png",
   "engines": {
     "vscode": "^1.82.0"
   },
