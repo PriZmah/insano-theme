@@ -1,0 +1,21 @@
+{
+  "name": "insano-theme",
+  "displayName": "Insano Theme",
+  "description": "Un tema creado a mi gusto. :)",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.82.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Insano Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/insano-theme-dark.json"
+      }
+    ]
+  }
+}
